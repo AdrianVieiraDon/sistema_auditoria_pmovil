@@ -30,7 +30,6 @@ para construir los `ThemeData` claro y oscuro de la app.
 ## Ejecutar
 
 ```
-flutter create .
 flutter pub get
 flutter run
 ```
